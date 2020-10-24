@@ -1,0 +1,223 @@
+/*************Reset CSS Code Start*************************/
+*{
+	
+	margin:0;
+	padding:0;
+	border:0;
+	box-sizing:border-box;
+	
+}
+/*************Reset CSS Code End*************************/
+	.container {
+		width: 940px;
+		margin: 0 auto;
+	}
+	
+/*************Header Starts Here*************************/
+	.header{
+				position:relative;
+			}
+	.header-content{
+						position:absolute;
+						top: 10px;
+						margin-left: 236px;
+					}
+	.header img{
+					
+					width:100%;
+				}
+
+	.logo h2{
+				float:left;
+				font-size:26px;
+				color: #fed136;
+				padding-top:29px;
+			}
+	.navigation_bar {
+						float:right;	
+						padding-top:42px;
+					}
+	.navigation_bar li{
+						float:left;
+						list-style-type:none;						
+				      }
+	.navigation_bar a{
+						text-decoration:none;	
+						padding:0 45px;	
+						color:#fff;						
+						font-size:14px;
+				      }
+
+	.clear{
+				clear:both;
+		  }
+	.header-text{
+					padding-top:201px;
+					text-align:center;
+					
+				}
+
+	.header-text h2{
+						color:#fff;						
+						font-size:40px;
+						/* padding-left:272px; */
+										
+					}
+					
+	.header-text h3{
+						color:#fff;						
+						/* font-size:75px; */
+						font-size:60px;
+						padding-top:30px;
+						/* padding-left:169px; */
+						padding-bottom:68px;
+					}
+	.header-text a{
+						
+						color:#fff3d6;						
+						font-size:18px;
+						text-decoration:none;
+						background-color: #fed136;
+						padding:25px;
+						border-radius:5px;
+						/* margin-left:406px; */
+						margin-bottom:100px;
+				  }
+
+
+/*************Header Ends Here*************************/
+
+/*************************Services Starts Here**************************************/
+	.services h2{
+					color:#222;						
+					font-size:40px;
+					/* padding-left:480px; */
+					/* padding-top:107px; */
+					
+				}
+	.services h3{
+					color:#777;						
+					font-size:16px;
+					/* padding-left:430px; */
+					/* padding-top:5px; */
+					/* padding-bottom:78px; */
+					
+				}
+	.service_heading{
+						text-align:center;
+						padding-top:103px;
+						padding-bottom:77px;
+					}
+		
+	.img_1{
+					text-align:center;
+					float:left;
+					width:33.33%;
+					/* padding-bottom:119px; */
+				}
+	.img_1 h2{
+					font-size:18px;
+					color:#222;
+					padding:28px 0 19px 0;
+				}
+	.img_1 p{
+					font-size:14px;
+					color:#c7c7c7;
+					padding:0 32px;
+				}
+	.services-img{
+					padding-bottom:119px;
+				}
+/*************************Services Ends Here**************************************/ 
+
+
+/*************************Portfolio Starts Here**************************************/
+	.portfolio{
+					background-color:#f7f7f7;
+			  }
+	.portfolio_content{
+						text-align:center;
+						padding-top:122px;
+						padding-bottom:77px;
+					  }
+	.portfolio_content h4{
+							font-size:40px;
+							color:#222;
+							padding-bottom:21px;
+						}
+	.portfolio_content h5{
+							font-size:16px;
+							color:#777;
+						}
+	.Image_section{
+					width:33.33%;
+					float:left;
+					padding:0 35px;
+					padding-bottom:78px;
+				  }
+	.img_info{
+					background-color:#fff;
+					text-align:center;
+					width:293px;
+					height:91px;
+					
+				}
+	.img_info h2{
+					font-size:18px;
+					color:#222;				
+				}
+	.img_info h3{
+					font-size:14px;
+					color:#73737;				
+				}
+	
+/*************************Portfolio Ends Here**************************************/
+
+/*************************About Us Starts Here**************************************/
+	.about-heading{
+					text-align:center;
+					padding-top:123px;
+					
+				}
+	.about-heading h2{
+						font-size:40px;
+						color:#222222;
+						padding-bottom:22px;
+					}
+	.about-heading h3{
+						font-size:16px;
+						color:#777777;
+						padding-bottom:79px;
+					}
+	.gal-one{
+		/* text-align:center; */
+		left:74px;
+	}			
+	.gal-one-text{
+		float:left;
+		width:261px;
+		/* padding-right:39px; */
+	}
+	/* .gal-one{ */
+		/* height:79px; */
+	/* } */
+	.gal-one-text h2{
+						/* padding-left: 147px; */
+						font-size:18px;
+					}
+	/* .gal-one-text h3{ */
+						/* /* padding-left: 67px; */ */
+						/* font-size:18px; */
+					/* } */
+	.gal-one-text p{
+						padding-left: 75px;
+						font-size:14px;
+					}
+	.gal-one-img{
+					/* left:378px; */
+					/* float:right; */
+					width:182px;
+					
+				}
+
+/*************************About Us Ends Here**************************************/
